@@ -1,0 +1,11 @@
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\bin\Debug\AverCalc.desk.cs.exe.config
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\bin\Debug\AverCalc.desk.cs.exe
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\bin\Debug\AverCalc.desk.cs.pdb
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.csprojAssemblyReference.cache
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.Form1.resources
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.Properties.Resources.resources
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.csproj.GenerateResource.cache
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.csproj.CoreCompileInputs.cache
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.exe
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\obj\Debug\AverCalc.desk.cs.pdb
+C:\Users\GabrielTower\source\repos\AverCalc.desk.cs\AverCalc.desk.cs\bin\Debug\TextFile1.txt
