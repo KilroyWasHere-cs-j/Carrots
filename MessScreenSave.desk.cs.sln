@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessScreenSave.desk.cs", "MessScreenSave.desk.cs\MessScreenSave.desk.cs.csproj", "{820C64B5-29BF-4FA2-8BBA-F4B41EF57E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820C64B5-29BF-4FA2-8BBA-F4B41EF57E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820C64B5-29BF-4FA2-8BBA-F4B41EF57E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820C64B5-29BF-4FA2-8BBA-F4B41EF57E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820C64B5-29BF-4FA2-8BBA-F4B41EF57E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2045EE6F-23AB-4D76-AADB-5154D0FB1E20}
+	EndGlobalSection
+EndGlobal
