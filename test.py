@@ -13,4 +13,6 @@ while 1:
     cv2.imshow("Main", frame)
     print(frame)
     t.sleep(2)
-
+ 
+#This is the Python 3 method of captureing a image for a computers webcam 
+#This method uses PIL
