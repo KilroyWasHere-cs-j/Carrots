@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text2Num.con.cs", "Text2Num.con.cs\Text2Num.con.cs.csproj", "{36CF6F9A-8EFA-4A17-AE83-67B24AE47B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CF6F9A-8EFA-4A17-AE83-67B24AE47B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CF6F9A-8EFA-4A17-AE83-67B24AE47B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CF6F9A-8EFA-4A17-AE83-67B24AE47B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CF6F9A-8EFA-4A17-AE83-67B24AE47B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379DFE92-6420-4BC9-8B54-A8FD0AF12427}
+	EndGlobalSection
+EndGlobal

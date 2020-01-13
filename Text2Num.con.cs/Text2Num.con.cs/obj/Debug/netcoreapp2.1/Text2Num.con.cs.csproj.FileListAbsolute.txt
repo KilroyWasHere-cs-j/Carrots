@@ -1,0 +1,12 @@
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Words1.txt
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Text2Num.con.cs.deps.json
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Text2Num.con.cs.runtimeconfig.json
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Text2Num.con.cs.runtimeconfig.dev.json
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Text2Num.con.cs.dll
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\bin\Debug\netcoreapp2.1\Text2Num.con.cs.pdb
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.csprojAssemblyReference.cache
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.csproj.CoreCompileInputs.cache
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.AssemblyInfoInputs.cache
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.AssemblyInfo.cs
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.dll
+C:\Users\gmtow\source\repos\Text2Num.con.cs\Text2Num.con.cs\obj\Debug\netcoreapp2.1\Text2Num.con.cs.pdb
